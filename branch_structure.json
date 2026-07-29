@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore/ci-green",
+    "chore/init-soroban-contracts",
+    "feat/horizon-reconciliation-boundary",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "chore/ci-green": "main",
+    "chore/init-soroban-contracts": "main",
+    "feat/horizon-reconciliation-boundary": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "chore/ci-green",
+    "chore/init-soroban-contracts",
+    "feat/horizon-reconciliation-boundary",
+    "origin"
+  ]
+}
