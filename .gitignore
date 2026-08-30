@@ -2,11 +2,10 @@ node_modules/
 package-lock.json
 dist
 *.local
-.env
-.env.*
 !.env.example
 .DS_Store
 
 /src/generated/prisma
 coverage/
 .opencode
+config.bat
